@@ -1,0 +1,2 @@
+# Preserve original MATLAB sources byte-for-byte (CRLF line endings included)
+*.m -text
